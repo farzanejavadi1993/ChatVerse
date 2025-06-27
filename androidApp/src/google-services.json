@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "739747661770",
+    "project_id": "chatverse-43167",
+    "storage_bucket": "chatverse-43167.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:739747661770:android:67f7acfb3828b037857133",
+        "android_client_info": {
+          "package_name": "com.fermer.chatverse.android"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDxQTMpXls7apqpNuZWDgwn8Ax0HOTxafc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
